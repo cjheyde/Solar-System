@@ -11,4 +11,74 @@
   flex-flow: row wrap;
   flex-direction: column;
   justify-content: center;
+  min-height: 450px;
+  min-width: 120px;
 }
+
+.imagem:hover {
+  cursor: pointer;
+  transform: scale(1.3) rotate(45deg);
+  transition: 0.7s;
+}
+
+/* To build this css after I have achieved 100% of my Project while still in 19c
+- I reffered to https://github.com/tryber/sd-019-c-project-solar-system/pull/123 .
+I understand it is a not substantial code (código não substancial) */
+
+/* ref. for planet sizes
+http://aulasdefisica.com/download/astronomia/cursoastronomia/osistemasolaremescala.htm */
+
+.Mercúrio img {
+  width: 34px;
+}
+
+.Vênus img {
+  width: 81px;
+}
+
+.Terra img {
+  width: 88px;
+}
+
+.Marte img {
+  width: 47px;
+}
+
+.Júpiter img {
+  margin: -60px;
+  width: 500px;
+
+  /* OBS: Size should be 1000px, I reduced it 50% to fit in the screen */
+}
+
+.Saturno img {
+  margin: -60px;
+  width: 500px;
+
+  /* OBS: Size should be 1000px, I reduced it 50% to fit in the screen */
+}
+
+.Urano img {
+  margin: -30px;
+  width: 180px;
+
+  /* OBS: Size should be 355px, I reduced it 50% to fit in the screen */
+}
+
+.Netuno img {
+  margin: -30px;
+  width: 175px;
+
+  /* OBS: Size should be 345px, I reduced it 50% to fit in the screen */
+}
+
+/*
+Mercúrio - 2,8 -> 3,4%
+Vênus - 7,0 -> 8,1%
+Terra - 7,3 -> 8,8%
+Marte - 3,9 -> 4,7%
+Júpiter - 82,2 -> 100%
+Saturno - 69,0 sem os aneis -> 84%
+Urano - 29,2 -> 35,5%
+Netuno - 28,4 -> 34,5%
+*/
