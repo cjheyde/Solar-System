@@ -16,5 +16,18 @@
   height: 300px;
   margin: 30px;
   text-align: left;
-  width: 525px;
+  width: 455px;
+}
+
+.missionName {
+  font-size: 2.3rem;
+  font-weight: 1000;
+  padding: 5%;
+}
+
+.missionYcdest {
+  border-top: solid var(--off_White);
+  border-width: 1px;
+  line-height: 35px;
+  padding: 5%;
 }
