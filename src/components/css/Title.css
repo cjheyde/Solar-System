@@ -1,0 +1,17 @@
+:root {
+
+  --off_White: rgb(245, 241, 237);
+
+  --gray: rgba(0, 0, 0, 0.582);
+}
+
+.title {
+  background-color: var(--gray);
+  border: 1px solid var(--off_White);
+  border-radius: 12px;
+  font-size: 2.2rem;
+  margin-left: 4%;
+  margin-top: 100px;
+  padding: 2%;
+  width: 90%;
+}

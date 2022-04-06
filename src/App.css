@@ -1,3 +1,20 @@
-.App {
+:root {
+
+  --off_White: rgb(245, 241, 237);
+}
+
+* {
+  font-family: Verdana , Geneva , Tahoma , sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.stars {
+  background-image: url('./images/background.png');
+  background-position: center;
+  background-size: 110rem;
+  color: var(--off_White);
+  display: flex;
+  flex-wrap: wrap;
   text-align: center;
 }
