@@ -1,6 +1,6 @@
 ## Solar System Project
 
-## :iphone: Mobile version/Versão mobile
+#### Imagem do site:
 
 (./imgs/solar-system.png)
 
