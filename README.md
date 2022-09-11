@@ -1,8 +1,8 @@
-# Solar System Project
+## Solar System Project
 
-Files coded by me:
+### Files coded by me:
 - 
 
-Files coded by Trybe:
+### Files coded by Trybe:
 -
 
