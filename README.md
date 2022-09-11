@@ -1,8 +1,8 @@
 ## Solar System Project
 
 #### Imagem do site:
-
-(./imgs/solar-system.png)
+<!-- 
+(./imgs/solar-system.png) -->
 
 ### Files coded by me:
 - 
