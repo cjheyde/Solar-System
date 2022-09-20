@@ -1,7 +1,5 @@
 ## Solar System Project
 
-<a href="solar-system-lemon.vercel.app/">Solar System Project</a>
-
 <!-- 
 (./imgs/solar-system.png) -->
 
