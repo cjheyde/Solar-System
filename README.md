@@ -4,13 +4,15 @@ This Project shows the Solar System Planets and cards with information of missio
 
 <strong>First commit:</strong> on Apr 6th, 2022.
 
-Here I had to exercise: the usage of JSX in React, create class components in React, use props correctly and use PropTypes, as well as HTML and CSS.
+<strong>Here I had to exercise:</strong> the usage of JSX in React, create class components in React, use props correctly and use PropTypes, as well as HTML and CSS.
 
 This was my first front-end JavaScript Project, as part of my school [Trybe](https://www.betrybe.com/) requirements to move forward.
 
 This project is uploaded at https://solar-system-lemon.vercel.app/, where you can see it without installing and starting it.
 
+
 ![Project Image](assets/Project-image.png)
+
 
 
 # How to run it:
