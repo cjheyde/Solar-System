@@ -2,7 +2,9 @@
 
 This Project shows the Solar System Planets and cards with information of missions sent from Earth to explore the other planets.
 
-Here I had to exercise: React-js.
+<strong>First commit:</strong> on Apr 6th, 2022.
+
+Here I had to exercise: the usage of JSX in React, create class components in React, use props correctly and use PropTypes, as well as HTML and CSS.
 
 This was my first front-end JavaScript Project, as part of my school [Trybe](https://www.betrybe.com/) requirements to move forward.
 
@@ -19,7 +21,7 @@ This was my first front-end JavaScript Project, as part of my school [Trybe](htt
  
 
 command: `npm install` <br />
-
+command: `npm start` <br />
 Open front-end on http://localhost:3000 <br />
 
 
@@ -31,7 +33,10 @@ Here you find a list of files and or folders according to the ownership.
  <summary><strong>🙋‍♀️ I coded myself:</strong></summary><br />
    
   ```markdown  
-  app/
+    src/
+    App.js
+    App.css
+    components/
 
   README.md
   ```
@@ -43,8 +48,10 @@ Here you find a list of files and or folders according to the ownership.
  <summary><strong>🧑‍🤝‍🧑 I coded partially - the scholl has coded some of it:</strong></summary><br />
  
  ```markdown   
-  app/
-
+  src/
+    components/
+      css/
+        PlanetCard.css -> help of same project coded by my teammate Talita Afonso
  ```
  
  </details>
@@ -54,7 +61,7 @@ Here you find a list of files and or folders according to the ownership.
  <summary><strong>🧛 coded by a teacher or a teammate:</strong></summary><br />
    
  ```markdown  
-  app/
+  none.
 
   ```
  
