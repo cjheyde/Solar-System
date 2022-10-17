@@ -8,6 +8,8 @@ Here I had to exercise: the usage of JSX in React, create class components in Re
 
 This was my first front-end JavaScript Project, as part of my school [Trybe](https://www.betrybe.com/) requirements to move forward.
 
+This project is uploaded at https://solar-system-lemon.vercel.app/, where you can see it without installing and starting it.
+
 ![Project Image](assets/Project-image.png)
 
 
@@ -22,6 +24,7 @@ This was my first front-end JavaScript Project, as part of my school [Trybe](htt
 
 command: `npm install` <br />
 command: `npm start` <br />
+
 Open front-end on http://localhost:3000 <br />
 
 
@@ -33,11 +36,9 @@ Here you find a list of files and or folders according to the ownership.
  <summary><strong>🙋‍♀️ I coded myself:</strong></summary><br />
    
   ```markdown  
-    src/
-    App.js
+  src/
     App.css
-    components/
-
+    components/ (except css/PlanetCard.css)
   README.md
   ```
  
@@ -45,10 +46,11 @@ Here you find a list of files and or folders according to the ownership.
 
 
 <details>
- <summary><strong>🧑‍🤝‍🧑 I coded partially - the scholl has coded some of it:</strong></summary><br />
+ <summary><strong>🧑‍🤝‍🧑 I coded partially:</strong></summary><br />
  
  ```markdown   
   src/
+    App.js -> the scholl has coded some of it
     components/
       css/
         PlanetCard.css -> help of same project coded by my teammate Talita Afonso
@@ -56,16 +58,6 @@ Here you find a list of files and or folders according to the ownership.
  
  </details>
 
-
-<details>
- <summary><strong>🧛 coded by a teacher or a teammate:</strong></summary><br />
-   
- ```markdown  
-  none.
-
-  ```
- 
- </details>
 
 <details>
  <summary><strong>🏫 coded by the school:</strong></summary><br />
