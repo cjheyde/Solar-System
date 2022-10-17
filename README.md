@@ -2,7 +2,7 @@
 
 This Project shows the Solar System Planets and cards with information of missions sent from Earth to explore the other planets.
 
-<strong>First commit:</strong> on Apr 6th, 2022.
+<strong>First commit:</strong> on Apr 6, 2022.
 
 <strong>Here I had to exercise:</strong> the usage of JSX in React, create class components in React, use props correctly and use PropTypes, as well as HTML and CSS.
 
