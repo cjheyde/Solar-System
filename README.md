@@ -55,7 +55,7 @@ Here you find a list of files and or folders according to the ownership.
     App.js -> the scholl has coded some of it
     components/
       css/
-        PlanetCard.css -> help of same project coded by my teammate Talita Afonso
+        PlanetCard.css -> help of same project coded by my classmate Talita Afonso, thanks! 🙏
  ```
  
  </details>
